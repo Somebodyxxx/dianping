@@ -2766,3 +2766,4 @@
 2023/11/20 17:22:31 [notice] 28272#31436: signal process started
 2023/11/20 17:22:40 [notice] 26220#19864: signal process started
 2023/11/20 17:22:40 [error] 26220#19864: CreateFile() "C:\Users\wangxiao\Desktop\nginx-1.18.0/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2023/11/21 19:32:56 [error] 13800#26468: *8 CreateFile() "C:\Users\wangxiao\Desktop\hmdp\nginx-1.18.0/html/hmdp/js/axios.min.map" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /js/axios.min.map HTTP/1.1", host: "localhost:8080"

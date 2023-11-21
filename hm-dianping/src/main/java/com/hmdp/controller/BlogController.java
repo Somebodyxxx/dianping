@@ -26,7 +26,6 @@ import java.util.List;
 @RestController
 @RequestMapping("/blog")
 public class BlogController {
-
     @Resource
     private IBlogService blogService;
     @Resource
